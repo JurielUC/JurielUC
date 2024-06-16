@@ -1,8 +1,7 @@
 <div align="center">
-<a href="https://github.com/JurielUC">
-<img src="assets/logo.png" alt="Logo" width="150">
-</a>
-<h2 align="center">Juriel Comia</h2>
+    <a href="https://github.com/JurielUC">
+        <img src="assets/logo.png" alt="Logo" width="200">
+    </a>
 </div>
 
 ### Socials: 
