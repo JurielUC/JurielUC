@@ -1,12 +1,9 @@
 ### Socials: 
-<a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/jurielcomia/"><img src="https://img.shields.io/badge/jurielcomia-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/juriel-comia-49769525a/"><img src="https://img.shields.io/badge/jurielcomia-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/juriel.comia.7"><img src="https://img.shields.io/badge/jurielcomia-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
 <a href="mailto: juriel.ucomia@gmail.com">
 <img src="https://img.shields.io/badge/-juriel.ucomia%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
-
-### Icreatechs:
-<a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 
 ### Current Status Quo:
 
