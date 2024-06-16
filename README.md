@@ -1,4 +1,4 @@
-# Hello, I'm Juriel Comia!
+# Hello, I'm Juriel!
 
 ### Socials: 
 <a href="https://www.instagram.com/jurielcomia/"><img src="https://img.shields.io/badge/jurielcomia-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/juriel-comia-49769525a/"><img src="https://img.shields.io/badge/jurielcomia-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/juriel.comia.7"><img src="https://img.shields.io/badge/jurielcomia-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
