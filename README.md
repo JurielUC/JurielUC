@@ -1,9 +1,8 @@
-<br/>
 <div align="center">
 <a href="https://github.com/JurielUC">
-<img src="assets/logo.png" alt="Logo" width="80" height="80">
+<img src="assets/logo.png" alt="Logo" width="150">
 </a>
-<h3 align="center">Juriel Comia</h3>
+<h2 align="center">Juriel Comia</h2>
 </div>
 
 #
