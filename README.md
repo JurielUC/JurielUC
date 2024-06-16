@@ -5,7 +5,7 @@
 <br>
 ### How to reach me: 
 <a href="mailto: juriel.ucomia@gmail.com">
-<img src="https://img.shields.io/badge/-juriel.ucomia%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/gmail-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a>
 
 ### Current Status Quo:
 
