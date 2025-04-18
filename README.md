@@ -15,7 +15,7 @@
 
 ### Current Status Quo:
 
-- 💼 Web Developer
+- 💼 Software Developer
 - 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Web Development</strong>.
 
