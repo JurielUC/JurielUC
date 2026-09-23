@@ -34,7 +34,7 @@ I'm a software developer based in Batangas, Philippines, focused on creating pra
 
 ## Education
 
-**Master in Information Technology** · Batangas State University, The National Engineering University
+**Master in Information Technology (18 units)** · Batangas State University, The National Engineering University
 
 **Bachelor of Science in Information Technology** · Batangas State University, The National Engineering University
 
