@@ -49,16 +49,17 @@ I'm a software developer based in Batangas, Philippines, focused on creating pra
 | Tools & design | Git, Figma |
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,git,figma&theme=dark&perline=9">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,git,figma&theme=light&perline=9">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,git,figma&theme=light&perline=9" alt="HTML, CSS, JavaScript, React, PHP, Laravel, MySQL, Git, and Figma">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n workflow automation">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="42" height="42">
+  <img src="https://cdn.simpleicons.org/livewire/4E56A6" alt="Livewire" title="Livewire" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="42" height="42">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="42" height="42">
 </div>
 
 ## GitHub activity
