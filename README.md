@@ -1,33 +1,62 @@
 <div align="center">
-    <a href="https://github.com/JurielUC">
-        <img src="assets/logo.png" alt="Logo" width="200">
-    </a>
+  <a href="https://github.com/JurielUC">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+      <img alt="Juriel's logo" src="assets/logo-light.png" width="180">
+    </picture>
+  </a>
+
+  <h1>Hi, I'm Juriel 👋</h1>
+  <p>Software Developer · Web Development</p>
+
+  <a href="mailto:juriel.ucomia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/juriel-comia-49769525a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/jurielcomia/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/juriel.comia.7">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </div>
 
-# Hello, I'm Juriel!
+---
 
-### Socials: 
-<a href="https://www.instagram.com/jurielcomia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/juriel-comia-49769525a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/juriel.comia.7"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<br>
-### How to reach me: 
-<a href="mailto: juriel.ucomia@gmail.com">
-<img src="https://img.shields.io/badge/gmail-7B83EB?&style=for-the-badge&logo=gmail&color=D14836&logoColor=white" ></a>
+### About me
 
-### Current Status Quo:
+- 💻 I build web applications and enjoy turning ideas into useful tools.
+- 🌱 I’m continuing to grow my skills in frontend and backend development.
+- 🤝 I’m open to connecting with people in the web development community.
+- 💬 Ask me about React, Laravel, or web development.
 
-- 💼 Software Developer
-- 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Web Development</strong>.
+### Tech stack
 
-------------------------------------------- 
+**Frontend**
 
-### Tools I work upon:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/react%20js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">   <img src="https://img.shields.io/badge/laravel%20-%23E34F26.svg?&style=for-the-badge&logo=laravel&logoColor=white">   <img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> 
+**Backend and database**
 
-------------------------------------------- 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### GitHub activity
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JurielUC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com?user=JurielUC&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JurielUC&layout=compact&theme=transparent&hide_border=true" height="160" alt="Most used languages">
+  <img src="https://streak-stats.demolab.com?user=JurielUC&theme=transparent&hide_border=true" height="160" alt="GitHub contribution streak">
+</div>
